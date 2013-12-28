@@ -14,6 +14,7 @@ Ex: Clean.bat d
 
 Optional flag: --delete will allow ClamWin to delete the threats
 it finds, instead of merely logging them in WinClampLog.txt
+Ex: Cleam.bat c --delete
 
 Run Clean.bat/help, Clean.bat -h, or Clean.bat --help for, errrh, help
 
