@@ -1,0 +1,111 @@
+
+-------------------------------------------------------------------------------
+
+ERROR: Can't get file status
+
+----------- SCAN SUMMARY -----------
+Known viruses: 0
+Engine version: 0.98
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 0.002 sec (0 m 0 s)
+
+-------------------------------------------------------------------------------
+
+ERROR: Can't get file status
+
+----------- SCAN SUMMARY -----------
+Known viruses: 0
+Engine version: 0.98
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 0.003 sec (0 m 0 s)
+
+-------------------------------------------------------------------------------
+
+ERROR: Can't get file status
+
+----------- SCAN SUMMARY -----------
+Known viruses: 0
+Engine version: 0.98
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 0.003 sec (0 m 0 s)
+
+-------------------------------------------------------------------------------
+
+WARNING: Can't open file \\?\C:\Users\Ohmnivore\AppData\Local\Google\Chrome\User Data\Default\Cache\data_0: Permission denied
+WARNING: Can't open file \\?\C:\Users\Ohmnivore\AppData\Local\Google\Chrome\User Data\Default\Cache\data_1: Permission denied
+WARNING: Can't open file \\?\C:\Users\Ohmnivore\AppData\Local\Google\Chrome\User Data\Default\Cache\data_2: Permission denied
+WARNING: Can't open file \\?\C:\Users\Ohmnivore\AppData\Local\Google\Chrome\User Data\Default\Cache\data_3: Permission denied
+WARNING: Can't open file \\?\C:\Users\Ohmnivore\AppData\Local\Google\Chrome\User Data\Default\Cache\data_4: Permission denied
+
+Scanning aborted...
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3045244
+Engine version: 0.98
+Scanned directories: 80
+Scanned files: 1751
+Infected files: 0
+Data scanned: 538.71 MB
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3045244
+Engine version: 0.98
+Scanned directories: 2
+Scanned files: 37
+Infected files: 0
+Data scanned: 16.71 MB
+Data read: 11.56 MB (ratio 1.45:1)
+Time: 13.385 sec (0 m 13 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3045244
+Engine version: 0.98
+Scanned directories: 2
+Scanned files: 37
+Infected files: 0
+Data scanned: 16.71 MB
+Data read: 11.56 MB (ratio 1.45:1)
+Time: 13.477 sec (0 m 13 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3045244
+Engine version: 0.98
+Scanned directories: 43
+Scanned files: 536
+Infected files: 0
+Data scanned: 57.95 MB
+Data read: 108.82 MB (ratio 0.53:1)
+Time: 21.177 sec (0 m 21 s)
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+

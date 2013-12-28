@@ -1,0 +1,120 @@
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 21:52:30 2013
+TTL: 30
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 21:52:34 2013
+TTL: 25
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 21:57:41 2013
+TTL: 1522
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 21:57:45 2013
+TTL: 1518
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 22:10:11 2013
+TTL: 773
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 22:10:16 2013
+TTL: 767
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 22:11:29 2013
+TTL: 694
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 22:11:32 2013
+TTL: 691
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 22:45:22 2013
+TTL: 461
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
+--------------------------------------
+Current working dir is C:\Users\Ohmnivore\Desktop\Free Portable Cleanup Suite\ClamWinPortable\Data\db
+Max retries == 3
+ClamAV update process started at Fri Dec 27 22:45:26 2013
+TTL: 457
+Software version from DNS: 0.98
+main.cvd version from DNS: 55
+main.cvd is up to date (version: 55, sigs: 2424225, f-level: 60, builder: neo)
+daily.cvd version from DNS: 18295
+daily.cvd is up to date (version: 18295, sigs: 626327, f-level: 63, builder: neo)
+bytecode.cvd version from DNS: 235
+bytecode.cvd is up to date (version: 235, sigs: 44, f-level: 63, builder: dgoddard)
