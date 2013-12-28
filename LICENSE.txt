@@ -1,0 +1,4 @@
+Heck, I don't know. All this is open-source except for JRT.exe, 
+which seems to be freeware. So technically I can bundle it, but
+I can't call this open-source. Consider it half-way between
+open-source and freeware then.
