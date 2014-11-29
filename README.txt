@@ -18,4 +18,4 @@ Ex: Cleam.bat c --delete
 
 Run Clean.bat/help, Clean.bat -h, or Clean.bat --help for, errrh, help
 
-See post here: http://ohmnivore.elementfx.com/240/my-portable-cleanup-suite/#more-240
+See post here: http://ohmnivore.elementfx.com/blog/my-portable-cleanup-suite/
